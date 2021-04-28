@@ -1,0 +1,14 @@
+{
+	"name": "Vlad | Portofolio",
+	"description": "",
+	"main": "server.js",
+	"version": "1.0.0",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "4.17.1"
+	},
+	"author": "Roman Vlad",
+	"license": "ISC"
+}
